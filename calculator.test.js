@@ -1,5 +1,5 @@
 //import * as calculator from './calculator.js';
-import {expect, test} from '@jest/globals';
+//import {expect, test} from '@jest/globals';
 
 const calculator = require('./calculator');
 test("testando soma de 5+5" ,() =>{

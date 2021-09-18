@@ -1,7 +1,7 @@
 {
   "name": "aplicacaonode",
   "version": "1.0.0",
-  "description": "\"Aplicativo da aula\"",
+  "description": "Aplicativo da aula",
   "main": "app.js",
   "scripts": {
     "test": "jest"
